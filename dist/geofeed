@@ -1,3 +1,4 @@
 #RFC8805-For-AS214006
 #prefix,country_code,region_code,city,postal
 2a0c:9a40:8620::/48,BE,BE-VAN,Antwerpen,2018
+2a0c:9a46:401::/48,BE,BE-VAN,Antwerpen,2018
